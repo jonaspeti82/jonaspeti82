@@ -18,7 +18,7 @@ A high-performance text processing application implemented in **GNU C++** and **
 - Performance measurement and comparison between languages
 
 **Repository (private):**  
-https://github.com/jonaspeti82/portfolio-highload
+https://github.com/jonaspeti82/portofilo-sort-app
 
 ---
 
