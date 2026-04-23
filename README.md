@@ -49,6 +49,8 @@ Full-stack multi-tenant SaaS boilerplate with strict per-tenant data isolation.
 - Superadmin dashboard: tenant provisioning, queued creation, status management, automated email notifications
 - Tenant-scoped authentication, profile and password management
 - Inertia.js v3 + Vue 3 frontend with server-side URL generation (cache-proof)
+- Test-driven development: full feature test coverage with Pest, including tenant isolation and cross-DB contamination tests
+- AI-first development workflow: built in collaboration with Claude Code
 
 **Repository (private):**
 https://github.com/jonaspeti82/portfolio-multi-tenant-app-demo
