@@ -39,6 +39,22 @@ https://github.com/jonaspeti82/portfolio-highload
 
 ---
 
+## 3. Multi-Tenant SaaS Platform – Laravel + Vue.js
+
+Full-stack multi-tenant SaaS boilerplate with strict per-tenant data isolation.
+
+**Topics include:**
+- Path-based multi-tenancy with separate databases per tenant (stancl/tenancy)
+- Security-first middleware architecture: tenant DB connection established before session, auth, or any other middleware
+- Superadmin dashboard: tenant provisioning, queued creation, status management, automated email notifications
+- Tenant-scoped authentication, profile and password management
+- Inertia.js v3 + Vue 3 frontend with server-side URL generation (cache-proof)
+
+**Repository (private):**
+https://github.com/jonaspeti82/portfolio-multi-tenant-app-demo
+
+---
+
 ## Access
 
 These repositories are private by design.
